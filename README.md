@@ -27,15 +27,17 @@ This is a inventro related app which can find out the Details abouts the project
 3. Go back to the Home Page
 
 
-It’s a collection of 4 bite-sized tools designed to solve everyday money problems in seconds:
+It’s a collection of 2 bite-sized tools designed to solve everyday money problems in seconds:
+
 ✨ Product Page - Show the All Product 
+👨‍💻 Product Details Page - Show the Information about the Products
  
 🧰 Tech Stack:
- HTML5 | PicoCSS | JavaScript
-Each tool has its own page, connected through a simple navbar. It was a great learning experience in form handling, calculations, and writing event-driven logic.
+ HTML5 | PicoCSS | JavaScript | Routes | AtomRouter
+Each tool has its own page. It was a great learning experience intially but now is easy to make their project by own and also improve the logical understanding.
 
- 📁 CodeSandBox repo : https://codesandbox.io/p/sandbox/nostalgic-fire-82nk6m 
- 🔗 Live project: https://82nk6m.csb.app/
+ 📁 CodeSandBox repo : https://codesandbox.io/p/sandbox/ng6-final-inventroapp-7jgnj3
+ 🔗 Live project: https://7jgnj3.csb.app/
 
 This project was built as a learning milestone in neoG Camp, and I’m incredibly grateful for the mentorship and guidance of Ankita Tripathi🙌. Thank you for helping me level up!
 
